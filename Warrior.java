@@ -5,7 +5,7 @@
 
 /*=============================================
   class Warrior -- the protagonist of Ye Olde RPG
-  =============================================*/
+  ============================================*/
 
 public class Warrior extends Character {
 
